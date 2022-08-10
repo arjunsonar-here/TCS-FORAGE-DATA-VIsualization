@@ -1,0 +1,73 @@
+
+Task 1 
+
+chief marketing officer
+
+What pricing frameworks do you prefer to use? 
+
+Knowing what you know so far about our company, what strategies and tactics would you put in place to help drive revenue?
+
+How do you approach branding a company, and its products and services?
+
+What's on your marketing dashboard, and what KPIs do you track?  
+
+
+Chief executive officer
+
+
+What were your business goal to start the company?
+
+What is the one thing you would change about this company?
+
+How do you see this organisation changing in the next five years?
+
+What do you find is the best way of communicating with the organisation?
+
+
+Task 2 (Types of Charts used for Effective Data Visualization)
+
+*Comparison Chart
+
+We Use 
+Column charts , Bar charts, Line charts, Scatter plots
+
+
+*Distribution charts
+
+We Use
+Histogram,Box plot, KDE Plot
+
+
+* For the breakup of a whole chart
+
+We Use
+Pie Chart,Donut Chart, Stacked Column Chart, Stacked Bar Chart
+
+
+* Relationship charts
+
+We Use
+Scatter Plot, Line Chart
+
+
+*Trend charts also known as (Time Series Data) 
+
+We Use
+Line Chart,Area Chart,Column Chart
+
+
+Task 3
+
+It is a task were you will apply your Data Visualization techinque using basics of BI Tools (such as Power BI or Tableau) for presenting the data in much effective manner.
+
+Although I have completed the task can view on my repositery.
+
+
+Task 4
+
+It a task where you have to record a video explaining your findings and work which you have done using BI toools. It is more or less a actually representation of work in front of client.
+
+ 
+
+
+
